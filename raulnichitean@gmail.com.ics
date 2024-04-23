@@ -1,0 +1,147 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:raulnichitean@gmail.com
+X-WR-TIMEZONE:Europe/Bucharest
+BEGIN:VEVENT
+DTSTART:20200218T123500Z
+DTEND:20200218T142000Z
+DTSTAMP:20240423T161631Z
+ORGANIZER;CN=unknownorganizer@calendar.google.com:mailto:unknownorganizer@c
+ alendar.google.com
+UID:7kukuqrfedlm2f9tt4f73r6mis8iubi1h5mj029brcdqo9v4vniiq6m1fs8t4mhkdrk0
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Raul N
+ ichitean;X-NUM-GUESTS=0:mailto:raulnichitean@gmail.com
+CLASS:PRIVATE
+CREATED:20200204T062509Z
+DESCRIPTION:Wizz Air\, zborul 3541\nTimișoara TSR 14:35 (ora locală) - Nürn
+ berg NUE 15:20 (ora locală)\n\nNumăr de confirmare: Z7R14L
+LAST-MODIFIED:20201003T082002Z
+LOCATION:Timișoara TSR
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Zbor spre Nürnberg (W6 3541)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200222T145000Z
+DTEND:20200222T163000Z
+DTSTAMP:20240423T161631Z
+ORGANIZER;CN=unknownorganizer@calendar.google.com:mailto:unknownorganizer@c
+ alendar.google.com
+UID:7kukuqrfedlm2f9tthv1immn830um4ggunuaivu01k08ifbusrjmqttnd1s6k02aqdb0
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Raul N
+ ichitean;X-NUM-GUESTS=0:mailto:raulnichitean@gmail.com
+CLASS:PRIVATE
+CREATED:20200204T062509Z
+DESCRIPTION:Wizz Air\, zborul 3542\nNürnberg NUE 15:50 (ora locală) - Timiș
+ oara TSR 18:30 (ora locală)\n\nNumăr de confirmare: Z7R14L
+LAST-MODIFIED:20201003T082002Z
+LOCATION:Nürnberg NUE
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Zbor spre Timișoara (W6 3542)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220608T153000Z
+DTEND:20220608T173000Z
+DTSTAMP:20240423T161631Z
+ORGANIZER;CN=mariusadelin@gmail.com:mailto:mariusadelin@gmail.com
+UID:4ombga9js16clvddminosgn7rv@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=raulni
+ chitean@gmail.com;X-NUM-GUESTS=0:mailto:raulnichitean@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=marius
+ adelin@gmail.com;X-NUM-GUESTS=0:mailto:mariusadelin@gmail.com
+CREATED:20220530T113153Z
+LAST-MODIFIED:20220606T085816Z
+LOCATION:Filarmonica Banatul Timişoara\, Bulevardul Constantin Diaconovici 
+ Loga 2\, Timișoara 300022\, Romania
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Standup Teo Vio si Costel
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220724
+DTEND;VALUE=DATE:20220725
+DTSTAMP:20240423T161631Z
+ORGANIZER;CN=mariusadelin@gmail.com:mailto:mariusadelin@gmail.com
+UID:4bqmcvj2ld9f1htch7j68j2l2c@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ra
+ ulnichitean@gmail.com;X-NUM-GUESTS=0:mailto:raulnichitean@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=marius
+ adelin@gmail.com;X-NUM-GUESTS=0:mailto:mariusadelin@gmail.com
+CREATED:20220708T150803Z
+LAST-MODIFIED:20220708T150804Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Salt cu parasuta
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20211027T072000Z
+DTEND:20211027T073500Z
+DTSTAMP:20240423T161631Z
+ORGANIZER;CN=audientearhitectsef@gmail.com:mailto:audientearhitectsef@gmail
+ .com
+UID:5agc7vaddg20bds38vkon43fjj@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=raulni
+ chitean@gmail.com;X-NUM-GUESTS=0:mailto:raulnichitean@gmail.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/wzu-ktgj-mpw
+CLASS:PRIVATE
+CREATED:20211021T095656Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nJoin with Google Meet: https://meet.google.com/wz
+ u-ktgj-mpw\n\nLearn more about Meet at: https://support.google.com/a/users/
+ answer/9282720\n\nPlease do not edit this section.\n-::~:~::~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20230112T105554Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:RAUL NICHITEAN AUDIENTA ARHITECT SEF PMT
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20211007T103500Z
+DTEND:20211007T130000Z
+DTSTAMP:20240423T161631Z
+ORGANIZER;CN=unknownorganizer@calendar.google.com:mailto:unknownorganizer@c
+ alendar.google.com
+UID:7kukuqrfedlm2f9tmcsj27nr9125khctki1sp7g9r8skruthtca69u2khac5700dfhfg
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Raul N
+ ichitean;X-NUM-GUESTS=0:mailto:raulnichitean@gmail.com
+CLASS:PRIVATE
+CREATED:20211004T203319Z
+DESCRIPTION:Wizz Air flight 3259\nBucurești OTP 13:35 (local time) - Malta 
+ MLA 15:00 (local time)\n\nConfirmation number: LJUCVH
+LAST-MODIFIED:20230112T105556Z
+LOCATION:București OTP
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Flight to Malta (W6 3259)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20211010T133500Z
+DTEND:20211010T155500Z
+DTSTAMP:20240423T161631Z
+ORGANIZER;CN=unknownorganizer@calendar.google.com:mailto:unknownorganizer@c
+ alendar.google.com
+UID:7kukuqrfedlm2f9t6i9f8t4nsljsu5u1fja0crndj08pjf7mg7p12t60t11a8pir8urg
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Raul N
+ ichitean;X-NUM-GUESTS=0:mailto:raulnichitean@gmail.com
+CLASS:PRIVATE
+CREATED:20211004T203319Z
+DESCRIPTION:Wizz Air flight 3260\nMalta MLA 15:35 (local time) - București 
+ OTP 18:55 (local time)\n\nConfirmation number: LJUCVH
+LAST-MODIFIED:20230112T105557Z
+LOCATION:Malta MLA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Flight to București (W6 3260)
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
